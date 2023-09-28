@@ -11,8 +11,4 @@ def calc_pi(num: int) -> str:
     return str(pi)[:num + 2]
 
 
-
-#n = int(input("Enter the number of digits of pi to calculate: "))
-#print(f"Pi with {n} digits of accuracy:\n{calc_pi(n)}")
-
 print(calc_pi(50_000))
