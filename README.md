@@ -14,6 +14,7 @@ and then run:
 ```
 python3 main.py > pi-calced.txt
 ```
+`picalced.txt` contains first 50k digits while `pi100kcalced.txt` contains obviously first 100k digits
 
 
 ## Need Help?
